@@ -9,8 +9,9 @@
 
 
 ##requirements
-*python verion >= 2.7
-*numpy
+
+* python verion >= 2.7
+* numpy
 
 
 
